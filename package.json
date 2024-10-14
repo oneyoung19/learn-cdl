@@ -3,5 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "yangxiaoping <2878847069@qq.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "init": "docsify init ./docs",
+    "serve": "docsify serve docs"
+  },
+  "devDependencies": {
+    "docsify-cli": "^4.4.4"
+  },
+  "packageManager": "pnpm@9.7.0"
 }
