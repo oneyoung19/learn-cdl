@@ -1,14 +1,14 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+<img src="_media/avatar.jpeg" alt="logo" style="width: 200px;height: 200px;">
 
-# docsify <small>3.5</small>
+# Chinese Driver Lisence
 
-> A magical documentation site generator.
+> Note Of Learn Chinese Driver Lisence.
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+- Basic theory
+- Actual operation
+- Supplementary content
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[GitHub](https://github.com/oneyoung19/learn-cdl)
+[Get Started](#chinese-driver-license)
