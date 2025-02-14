@@ -1,8 +1,5 @@
 # 科目三
 
-1. [灯光的使用](./1.灯光的使用.md)
-2. [变道](./2.变道.md)
-3. [换挡](./3.换挡.md)
-4. [超车](./4.超车.md)
-5. [掉头](./5.掉头.md)
-6. [靠边停车](./6.靠边停车.md)
+1. [海淀驾校——灯光模拟考试](https://mp.weixin.qq.com/s/DlgRi_ubg3s0kXz5oy8ktQ)
+
+2. [海淀驾校——科目三考试](https://mp.weixin.qq.com/s/1wVBPdvbv3FM7waEBXQn9A)
